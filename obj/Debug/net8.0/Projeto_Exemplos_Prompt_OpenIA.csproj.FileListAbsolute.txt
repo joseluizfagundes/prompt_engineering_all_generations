@@ -1,0 +1,5 @@
+C:\Users\jose.luiz.fagundes\source\repos\Projeto_Exemplos_Prompt_OpenIA\Projeto_Exemplos_Prompt_OpenIA\obj\Debug\net8.0\Projeto_Exemplos_Prompt_OpenIA.csproj.AssemblyReference.cache
+C:\Users\jose.luiz.fagundes\source\repos\Projeto_Exemplos_Prompt_OpenIA\Projeto_Exemplos_Prompt_OpenIA\obj\Debug\net8.0\Projeto_Exemplos_Prompt_OpenIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.luiz.fagundes\source\repos\Projeto_Exemplos_Prompt_OpenIA\Projeto_Exemplos_Prompt_OpenIA\obj\Debug\net8.0\Projeto_Exemplos_Prompt_OpenIA.AssemblyInfoInputs.cache
+C:\Users\jose.luiz.fagundes\source\repos\Projeto_Exemplos_Prompt_OpenIA\Projeto_Exemplos_Prompt_OpenIA\obj\Debug\net8.0\Projeto_Exemplos_Prompt_OpenIA.AssemblyInfo.cs
+C:\Users\jose.luiz.fagundes\source\repos\Projeto_Exemplos_Prompt_OpenIA\Projeto_Exemplos_Prompt_OpenIA\obj\Debug\net8.0\Projeto_Exemplos_Prompt_OpenIA.csproj.CoreCompileInputs.cache
