@@ -10,8 +10,8 @@ namespace OneShotExample
         static async Task Main(string[] args)
         {
             // Substitua pela sua chave de API do Azure OpenAI
-            string apiKey = "ada8942ed924471bbdc3434aad67d6c5";
-            string endpoint = "https://resource-azure-openai-all-generations.openai.azure.com/";
+            string apiKey = "";
+            string endpoint = "";
 
             var client = new OpenAIClient(new Uri(endpoint), new AzureKeyCredential(apiKey));
 
